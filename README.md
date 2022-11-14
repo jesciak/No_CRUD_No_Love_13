@@ -41,12 +41,12 @@ This application is the back-end for an e-commerce site.  It uses Express.js API
 
 ## Installation
 
-NPM Install Express.js , Sequelize, and MySQL. Create and test internal API routes using Insomnia.
+NPM Install Express.js , Sequelize, and MySQL. Create and test API routes using Insomnia.
 
 ## Usage
 
 
- ![screenshot](./images/)
+ ![screenshot](./assets/images/Screen%20Shot%202022-11-13%20at%2010.34.56%20PM.png)
  
 ## License
 MIT License
