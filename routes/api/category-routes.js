@@ -52,12 +52,12 @@ router.put('/:id', async (req, res) => {
     category_name: req.body.category_name
   },
   {
-    whare:{
+    where:{
       id:req.params.id,
     },
   })
   .then((categoryData)=>{
-    if(!categoryData){
+    if(!categoryData[0]){
       res.status(404).json({message:'No category with this id!'});
       return;
     }
