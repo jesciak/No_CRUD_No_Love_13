@@ -59,4 +59,4 @@ MIT License
 ## Links
 - [Github Repo](https://github.com/jesciak/No_CRUD_No_Love_13.git)
 
-- [Video]()
+- [Video Tutorial](https://drive.google.com/file/d/1jB3akF-x40zmOnQuE6MCYIIfNZZZQTpM/view)
